@@ -1,0 +1,13 @@
+﻿Mes,Segmento,Descripcion,Clientes,Color,Orden,Porcentaje
+Julio 2025,Activos,Pagan + Usan,32974,Verde,1,55.7
+Julio 2025,Riesgo Medio,Pagan + No Usan,23189,Naranja,2,39.17
+Julio 2025,Riesgo Alto,No Pagan + Usan,681,Rojo,3,1.15
+Julio 2025,Churn,No Pagan + No Usan,2359,Negro,4,3.98
+Agosto 2025,Activos,Pagan + Usan,31647,Verde,1,54.59
+Agosto 2025,Riesgo Medio,Pagan + No Usan,22899,Naranja,2,39.5
+Agosto 2025,Riesgo Alto,No Pagan + Usan,965,Rojo,3,1.66
+Agosto 2025,Churn,No Pagan + No Usan,2461,Negro,4,4.25
+Septiembre 2025,Activos,Pagan + Usan,30806,Verde,1,53.46
+Septiembre 2025,Riesgo Medio,Pagan + No Usan,21277,Naranja,2,36.93
+Septiembre 2025,Riesgo Alto,No Pagan + Usan,1805,Rojo,3,3.13
+Septiembre 2025,Churn,No Pagan + No Usan,3732,Negro,4,6.48
